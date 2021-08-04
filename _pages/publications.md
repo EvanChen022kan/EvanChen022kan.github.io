@@ -12,7 +12,7 @@ author_profile: true
 
 ## Conference
 
-*Eugene Lee*, Evan Chen and Chen-Yi Lee, "**Meta-rPPG: Remote Heart Rate Estimation Using a Transductive Meta-Learner**", In Proceedings of the European Conference of Computer Vision (ECCV), August 2020 [PDF](https://arxiv.org/abs/2007.06786){: .btn .btn--danger .btn--small} [Code](https://github.com/eugenelet/Meta-rPPG){: .btn .btn--success .btn--small} 
+Eugene Lee, *Evan Chen* and Chen-Yi Lee, "**Meta-rPPG: Remote Heart Rate Estimation Using a Transductive Meta-Learner**", In Proceedings of the European Conference of Computer Vision (ECCV), August 2020 [PDF](https://arxiv.org/abs/2007.06786){: .btn .btn--danger .btn--small} [Code](https://github.com/eugenelet/Meta-rPPG){: .btn .btn--success .btn--small} 
 
 
 
