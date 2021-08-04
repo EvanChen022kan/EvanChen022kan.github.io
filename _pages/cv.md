@@ -11,7 +11,7 @@ redirect_from:
 <embed src="https://evanchen022kan.github.io/Resume_2021_7.pdf" type="application/pdf" />
 
 
-
+<!-- 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -59,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
