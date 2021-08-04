@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,8 @@ redirect_from:
 ---
 <br/>
 
-Intro
-======
-This is a unfinished webpage.
+## About Me
+Research Assistant in Professor C.Y. Lee's group.  
 
 
 Getting started
