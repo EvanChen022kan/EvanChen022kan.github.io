@@ -15,7 +15,7 @@ Research Assistant in Electronics Engineering at National Yang Ming Chiao Tung U
 
 ## Skills
 
-| Languages                                        | Proficiency                                          |
+| Languages                                               | Proficiency                                          |
 | ------------------------------------------- | ----------------------------------------------------- |
 | C/C++ | High |
 | Python | High |
@@ -25,7 +25,7 @@ Research Assistant in Electronics Engineering at National Yang Ming Chiao Tung U
 | Java | Medium |
 | Swift | Medium |
 
-| Tools                                        | Proficiency                                          |
+| Tools                                                   | Proficiency                                          |
 | ------------------------------------------- | ----------------------------------------------------- |
 | Tensorflow | High |
 | PyTorch | High |
