@@ -31,7 +31,7 @@ Most neural networks are designed to be a set of static weights that can fit a c
 | C/C++ | High |
 | Python | High |
 | Matlab | High |
-| Verilog | Medium |
+| Verilog | High |
 | System Verilog | Medium |
 | Java | Medium |
 | Swift | Medium |
@@ -40,14 +40,17 @@ Most neural networks are designed to be a set of static weights that can fit a c
 | ------------------------------------------- | ----------------------------------------------------- |
 | Tensorflow | High |
 | PyTorch | High |
+| Flutter | Medium |
 | LaTeX | Medium |
 
 | Domain Knowledge                                        | Proficiency                                          |
 | ------------------------------------------- | ----------------------------------------------------- |
-| Computer Vision | High |
-| Deep Learning Application Development | High |
-| Machine Learning Algorithm Development | High |
-| Information Theory | High |
-| Communication Systems | Medium |
-| Mobile Application Development | Medium |
-| Natural Language Processing | Medium |
+| Computer Vision |High|
+| Machine Learning Algorithm Development| High|
+| Deep Learning Application Development| High|
+| Information Theory| High|
+| Wireless Communication| High|
+| Optimization| High|
+| Natural Language Processing| Medium|
+
+
