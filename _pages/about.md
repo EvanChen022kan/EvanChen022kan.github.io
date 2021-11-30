@@ -16,12 +16,12 @@ I received my Bachelor’s Degree in Electronics Engineering at National Chiao T
 ## Projects
 ### Remote Heart Rate Estimation
 The project aims to detect heart rate from facial videos. We use a deep neural network combine with a Meta-Transductive Learner to construct an robust end-to-end heart rate estimation system. This project was in cooperation with Realtek Semiconductor Corp.
-### Foveat-based Video Super Resolution
-This project aims to perform super resolution onto a low resolution video stream with the information of where the user's foveat region is. Given a streaming data flow including low resolution frames and high resolution fovea regions, we apply a dynamic convolution approach to extract the moving fovea region's information for the peripheral's super resolution.
+### Foveated Video Super Resolution
+We performed super resolution onto a low resolution video stream with the information of where the user's foveated region is. Given a streaming data flow including low resolution frames and high resolution foveated regions, we applied a dynamic convolution approach to extract the moving fovea region's information and enhance the overall image's resolution.
 ### Video Prediction
-A hierarchical memory structure cascaded onto LSTM that is used for video frame prediction. The performance of this approach successfully outperforms current SotA of this field.
+We developed a hierarchical memory structure that can be cascaded onto LSTM for video frame prediction. The performance of our approach successfully outperforms current SotA of this field.
 ### Context Aware Machine Learning
-Most neural networks are designed to be a set of static weights that can fit a certain data distribution. This usually cause problems when facing real-world data that are noisy or far from training data's distribution. We are trying to use concepts of self-supervised learning, capsules, attention and dynamic convolutional neural networks to derive a robust and general method to take advantage of context stored in data points.
+Most neural networks are designed to be a set of static weights that can fit a certain data distribution. This usually cause problems when facing real-world data that are noisy or far from training data's distribution. We are trying to use concepts from self-supervised learning, capsules, attention and dynamic convolutional neural networks to derive a robust and general method to take advantage of context stored in data points.
 
 
 ## Skills
