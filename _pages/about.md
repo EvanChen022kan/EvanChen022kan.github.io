@@ -15,7 +15,7 @@ I received my Bachelor’s Degree in Electronics Engineering at National Chiao T
 
 ## Projects
 ### Remote Heart Rate Estimation
-The project aims to detect heart rate from facial videos. We use a deep neural network combine with a Meta-Transductive Learner to construct an robust end-to-end heart rate estimation system. This project was in cooperation with Realtek Semiconductor Corp.
+The project aims to detect heart rate from facial videos. We use a deep neural network combine with a Meta-Transductive Learner to construct a robust end-to-end heart rate estimation system. This project was in cooperation with Realtek Semiconductor Corp.
 ### Foveated Video Super Resolution
 We performed super resolution onto a low resolution video stream with the information of where the user's foveated region is. Given a streaming data flow including low resolution frames and high resolution foveated regions, we applied a dynamic convolution approach to extract the moving fovea region's information and enhance the overall image's resolution.
 ### Video Prediction
